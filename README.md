@@ -188,12 +188,6 @@ The dashboard summary endpoint derives streaks, overall completion, and
 the skill profile from the set of a user's `UserRoadmap` records — none
 of that is stored separately, it's computed on request.
 
-## Pushing this project to GitHub
-
-See [`GIT_PUSH_PLAN.md`](./GIT_PUSH_PLAN.md) for a day-by-day commit
-plan — exactly which files to stage each day, plus ready-to-use commit
-messages and descriptions, so the repository history reads as a
-believable, steady build.
 
 ## Author
 
